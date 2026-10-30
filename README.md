@@ -6,6 +6,7 @@
 
 - [第一部分：智能体与语言模型基础](notes/part1-agent-and-llm-basics.md)
 - [第二部分·第四章：智能体经典范式构建](notes/chapter4-agent-paradigms.md)
+- [第二部分·第五章：基于低代码平台的智能体搭建](notes/chapter5-agent-low-code-platforms.md)
 
 ## 本次学习总结
 
